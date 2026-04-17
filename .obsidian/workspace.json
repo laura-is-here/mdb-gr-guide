@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "e2459ca0511fd694",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ebc1a409e03fbd7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dc04309e8bbf01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2654818df80b0d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "fcb8ef6d3ec22ed0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf241471701f2a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "28bc17afa0fc4f70",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "bb7db255719740d3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "line:(cf )",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "60a439552bc4742a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c49933ba9e02a91",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ab8abc6ae7fd19e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3b9b25fbc47c6ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1/1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1"
+            }
+          },
+          {
+            "id": "c73282fe0d92c71b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1/1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1"
+            }
+          },
+          {
+            "id": "9e94553d01fd409c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0584f6a3aa06ecaa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c161027b59d3c9a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1/1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "floating": {
+    "id": "a3ac2e70d5fa27ae",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b18970ae8878413b",
+        "type": "window",
+        "children": [
+          {
+            "id": "74a91e4c1047775a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57b2054be83dcef7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Some Things that Happen in Gravity's Rainbow/1/1 - 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "1 - 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1dc04309e8bbf01d",
+  "lastOpenFiles": [
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 1.md",
+    "README.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 18.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 16.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 15.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 13.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 10.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 8.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 7.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 5.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 4.md",
+    "Some Things that Happen in Gravity's Rainbow/1/1 - 3.md",
+    "Some Things that Happen in Gravity's Rainbow/2/2 - 2.md",
+    "Some Things that Happen in Gravity's Rainbow/2/2 - 1.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 1.md",
+    "Table View.base",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 4.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 3.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 2.md",
+    "Some Things that Happen in Gravity's Rainbow/0/Copyright.md",
+    "Some Things that Happen in Gravity's Rainbow/0",
+    "Some Things that Happen in Gravity's Rainbow/0/Prologue.md",
+    "Some Things that Happen in Gravity's Rainbow/0/Note from Michael Davitt Bell.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 12.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 11.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 10.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 9.md",
+    "Some Things that Happen in Gravity's Rainbow/4/4 - 8.md",
+    "Untitled.canvas",
+    "Some Things that Happen in Gravity's Rainbow/4",
+    "Some Things that Happen in Gravity's Rainbow/2",
+    "Some Things that Happen in Gravity's Rainbow/3",
+    "Some Things That Happen in Gravity's Rainbow/0 - Prologue",
+    "Some Things that Happen in Gravity's Rainbow/1",
+    "Some Things that Happen in Gravity's Rainbow"
+  ]
+}

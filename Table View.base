@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - aliases
+      - pages
+      - file.links
+      - file.backlinks
+    sort:
+      - property: pages
+        direction: ASC
+    columnSize: {}
+  - type: table
+    name: View

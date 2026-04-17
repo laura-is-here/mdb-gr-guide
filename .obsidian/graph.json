@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"Some Things That Happen in Gravity's Rainbow\"  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:1/ ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:2/ ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:3/",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:4/",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 1.73333333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 17.5,
+  "linkStrength": 0.557291666666667,
+  "linkDistance": 30,
+  "scale": 0.09248815955110715,
+  "close": true
+}
